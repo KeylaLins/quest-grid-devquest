@@ -51,7 +51,8 @@ body {
 .indicacoes .videos {
   display: flex;
   gap: 5px;
-  align-self:center;
+  align-self:center
+  ;
 }
 .indicacoes .informacoes {
   font-size: 11px;
